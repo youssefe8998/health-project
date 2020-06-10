@@ -1,0 +1,36 @@
+carousel-item {
+  width:100%;
+  height:700px;
+}
+.grad{
+  background-image: linear-gradient(-90deg, #8AB7F7, #F79D8A);
+}
+.fadeIn {
+  animation-duration: 3s;
+  animation-delay: 2s;
+  animation-iteration-count: infinite;
+}
+.top-buffer {
+  margin-top:20px; 
+}
+.navbar-nav li a {
+  font-size: 35px;
+  background: -webkit-linear-gradient( #8AB7F7, #F79D8A);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.bg {
+  background-image:url(img/background1.jpeg);
+}
+.bg2 {
+  background-image:url(img/background2.jpg);
+}
+.bg3 {
+  background-image:url(img/background3.jpg);
+}
+.bg4{
+  background-image:url(img/background1.jpeg);
+}
+.bg5{
+  background-image:url(img/bg52.jpg);
+}
